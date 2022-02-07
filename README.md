@@ -7,6 +7,8 @@ I'm tacrew, a front-end dev at Tokyo, Japan:sushi:.
 -   :hammer_and_pick: Typescript / React.js / Vue.js / Node.js / Tailwind CSS / Storybook / GitHub Actions / AWS
 -   :seedling: Solidity / GraphQL
 -   :speech_balloon: Japanese / English / Spanish(Chile)
+-   :nut_and_bolt: worked as a engineer in non-ferrous metals industry
+-   :mortar_board: master in mechanical engineering in the university of Tokyo
 -   :man_scientist: [INTJ](https://www.16personalities.com/intj-personality) personality
 -   :man: Pronouns: he/him
 
