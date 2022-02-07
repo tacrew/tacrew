@@ -1,39 +1,14 @@
-## Nice to see you👋
-<p align="left"> 
-  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=tacrew&count_private=true&theme=dark" />
-  <img alt="Top languages" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacrew&layout=compact&theme=dark" />
-</p>
+## Hey, nice to see you! :wave:
 
-### using
-<p align="left">
-  <img src="https://img.shields.io/badge/--000.svg?logo=javascript&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=typescript&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=react&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=next.js&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=gatsby&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=vue.js&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=nuxt.js&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=node.js&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=html5&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=CSS3&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=sass&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=tailwind%20css&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=jest&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=testing%20library&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=storybook&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=webpack&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=docker&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=git&style=popout-square">
-  <img src="https://img.shields.io/badge/--000.svg?logo=Amazon%20AWS&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=AWS%20Amplify&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=firebase&style=popout-square">
-</p>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=tacrew&count_private=true&theme=dark">
 
-### interested
-<p align="left">
-  <img src="https://img.shields.io/badge/--000.svg?logo=solidity&style=popout">
-  <img src="https://img.shields.io/badge/--000.svg?logo=graphql&style=popout">
-</p>
+I'm tacrew, a front-end dev at Tokyo, Japan:sushi:.
+
+-   :hammer_and_pick: Typescript / React.js / Vue.js / Node.js / Tailwind CSS / Storybook / GitHub Actions / AWS
+-   :seedling: Solidity / GraphQL
+-   :man_scientist: [INTJ](https://www.16personalities.com/intj-personality) personality
+-   :man: Pronouns: he/him
+
 <!--
 **tacrew/tacrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
